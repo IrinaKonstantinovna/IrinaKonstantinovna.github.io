@@ -1,0 +1,30 @@
+
+.ww {
+	width: 15%;
+}
+
+.flex {
+	display: flex;
+}
+.border {
+	border-bottom: 1px solid gray;
+
+
+}
+.placeholder-border {
+
+	border: 1px solid lightgray;
+	border-radius: 5px;
+}
+.font-size {
+	font-size: 10px;
+}
+
+.fc {
+
+	color: blue;
+} 
+
+.text-d {
+	text-decoration: none;
+}
